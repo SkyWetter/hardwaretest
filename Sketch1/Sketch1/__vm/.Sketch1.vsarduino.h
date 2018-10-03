@@ -106,6 +106,6 @@ typedef long __PTRDIFF_TYPE__;
 #define interrupts() sei()
 #define noInterrupts() cli()
 
-#include "Sketch1.ino"
+#include "HardwareTest.ino"
 #endif
 #endif
